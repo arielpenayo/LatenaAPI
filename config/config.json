@@ -9,7 +9,7 @@
   },
   "test": {
     "username": "root",
-    "password": "root",
+    "password": "",
     "database": "antaresadmin_antaresistema",
     "host": "localhost",
     "dialect": "mysql"
@@ -17,7 +17,7 @@
   },
   "production": {
     "username": "root",
-    "password": "root",
+    "password": "",
     "database": "antaresadmin_antaresistema",
     "host": "localhost",
     "dialect": "mysql"
@@ -25,7 +25,7 @@
   },
   "local": {
     "username": "root",
-    "password": "root",
+    "password": "",
     "database": "antaresadmin_antaresistema",
     "host": "localhost",
     "dialect": "mysql"
